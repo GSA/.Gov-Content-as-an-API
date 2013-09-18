@@ -16,7 +16,15 @@ Standards, Tools, and Guidance for offering web content as a web service
 
 
 ## Examples of Content APIs in the US Government
-* ERS at USDA
+* [Economic Research Service, USDA](http://www.ers.usda.gov/developer/website-content-api.aspx)
+* []()
+* [Healthcare.gov, HHS]()
+* []()
+* []()
+* []()
+* []()
+* []()
+* [Veterans Affairs, Press Releases](http://www.va.gov/webservices/press/documentation/releases.cfm)
 * CDC   -note ability to share these as successes
 Note that FDA and HHS are supposed to be close behind
 Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
@@ -26,7 +34,7 @@ NIH is very interested and is being pitched to do so.
 * FDA (tobacco information)
 * CMS
 * HHS
-* http://www.va.gov/webservices/press/documentation/releases.cfm
+* 
 * Flu.gov
 * NIAID
 * HealthFinder.gov
