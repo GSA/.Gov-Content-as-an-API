@@ -17,14 +17,17 @@ Standards, Tools, and Guidance for offering web content as a web service
 
 ## Examples of Content APIs in the US Government
 * [Economic Research Service, USDA](http://www.ers.usda.gov/developer/website-content-api.aspx)
-* []()
-* [Healthcare.gov, HHS]()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Centers for Disease Control](https://tools.cdc.gov/syndication/api.aspx)
+* [Healthcare.gov, HHS](https://www.healthcare.gov/developers/)
+* [HealthFinder.gov, HHS](http://healthfinder.gov/contentsyndication/)
+* [Federal Communications Commission](http://www.fcc.gov/developers/fcc-content-api)
+* [Information Sharing Environment](http://www.ise.gov/developer)
+* [Small Business Administration](http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api/content_share_api)
+* [BusinessUSA](http://business.usa.gov/apis)
 * [Veterans Affairs, Press Releases](http://www.va.gov/webservices/press/documentation/releases.cfm)
+* 
+
+
 * CDC   -note ability to share these as successes
 Note that FDA and HHS are supposed to be close behind
 Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
@@ -34,18 +37,13 @@ NIH is very interested and is being pitched to do so.
 * FDA (tobacco information)
 * CMS
 * HHS
-* 
 * Flu.gov
 * NIAID
-* HealthFinder.gov
-* Healthcare.gov (Here is the API discovery URL for the current live healthcare.gov site done with Percussion CM System and our Mashable Delivery Tier Services)
-* http://business.usa.gov/apis
+* 
 * FR
-* FCC
 * GSA - In Prototype
 * [CDC has been talking to some parts of State]
 * http://next.data.gov/?json=1
-* ise.gov
 
 
 
