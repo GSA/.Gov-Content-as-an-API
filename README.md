@@ -5,7 +5,7 @@ Standards, Tools, and Guidance for offering web content as a web service
 
 
 ### API Standards for Content APIs 
-* Under Construction
+* [White House API Standards](https://github.com/WhiteHouse/api-standards)
 
 
 ### Tools for Content API generation
@@ -31,8 +31,8 @@ Standards, Tools, and Guidance for offering web content as a web service
 
 
 
-Assorted Notes
-'Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
+Assorted Notes  
+* 'Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
 flu.gov, vaccine.gov'   
 * CMS
 * Flu.gov
