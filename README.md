@@ -10,6 +10,7 @@ Standards, Tools, and Guidance for offering web content as a web service
 
 ### Tools for Content API generation
 * [Drupal Content API](http://www.fcc.gov/encyclopedia/content-api-drupal-module)
+* [Wordpress API](http://developer.wordpress.com/docs/api/)
 * [Wordpress JSON plugin](http://wordpress.org/plugins/json-api/)
 * [HHS Digital Media API Platform](http://sourceforge.net/projects/contentservices/) - Used for the CDC, FDA, NIAID, and HHS.gov content APIs.  
 
