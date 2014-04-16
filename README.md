@@ -8,12 +8,17 @@ Standards, Tools, and Guidance for offering web content as a web service
 * [White House API Standards](https://github.com/WhiteHouse/api-standards)
 
 
-### Tools for Content API generation
+### Tools for Content API generation - Code
 * [Drupal Content API](http://www.fcc.gov/encyclopedia/content-api-drupal-module)
 * [Wordpress API](http://developer.wordpress.com/docs/api/)
 * [Wordpress JSON plugin](http://wordpress.org/plugins/json-api/)
  * [Jetpack](http://jetpack.me/support/json-api/)
 * [HHS Digital Media API Platform](http://sourceforge.net/projects/contentservices/) - Used for the CDC, FDA, NIAID, and HHS.gov content APIs.  
+
+### Tools for Content API generation - Services
+* [Apify - maybe](http://apify.heroku.com/resources)
+* [Import.io](http://www.Import.io)
+
 
 
 ### Examples of Content APIs in the US Government
@@ -43,5 +48,10 @@ flu.gov, vaccine.gov'
 * [CDC has been talking to some parts of State]
 * http://next.data.gov/?json=1
 * https://github.com/GSA/mygov-discovery
+http://help.percussion.com/developer/content-api/cm1-asset-api
+http://help.percussion.com/developer/delivery-tier-services/delivery-tier-services-api-reference
+scraperwiki
+
+
 
 
