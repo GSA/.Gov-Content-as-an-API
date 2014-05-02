@@ -36,6 +36,9 @@ Standards, Tools, and Guidance for offering web content as a web service
 * [BusinessUSA](http://business.usa.gov/apis)
 * [Veterans Affairs - Press Releases](http://www.va.gov/webservices/press/documentation/releases.cfm)
 
+### Benefits
+* [Content API -> USASearch](https://github.com/GSA/.Gov-Content-as-an-API/blob/master/contentAPI_to_search.%20md)
+
 
 
 Assorted Notes  
