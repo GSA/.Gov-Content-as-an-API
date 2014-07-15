@@ -44,7 +44,9 @@ Standards, Tools, and Guidance for offering web content as a web service
 ### Benefits
 * [Content API -> USASearch](https://github.com/GSA/.Gov-Content-as-an-API/blob/master/contentAPI_to_search.%20md)
 
-
+### Candidates for Easy Creation
+* [Wordpress](http://dotgov-browser.herokuapp.com/domains?cms=wordpress)
+* [Drupal](http://dotgov-browser.herokuapp.com/domains?cms=drupal)
 
 Assorted Notes  
 * 'Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
