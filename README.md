@@ -47,6 +47,7 @@ Standards, Tools, and Guidance for offering web content as a web service
 ### Candidates for Easy Creation
 * [Wordpress](http://dotgov-browser.herokuapp.com/domains?cms=wordpress)
 * [Drupal](http://dotgov-browser.herokuapp.com/domains?cms=drupal)
+* [Notes on this](https://docs.google.com/a/gsa.gov/spreadsheets/d/1_8DsV0BpmjK2sL84XBN3Ezg2eoXIi16DF06LRBMOdsY/edit#gid=0)
 
 Assorted Notes  
 * 'Started at CDC, now also at CMS, center for tobacco products (for FDA), HHS
