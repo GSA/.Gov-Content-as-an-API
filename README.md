@@ -13,7 +13,8 @@ Standards, Tools, and Guidance for offering web content as a web service
 * [Wordpress API](http://developer.wordpress.com/docs/api/)
 * [Wordpress JSON plugin](http://wordpress.org/plugins/json-api/)
  * [Jetpack](http://jetpack.me/support/json-api/)
-* [HHS Digital Media API Platform](http://sourceforge.net/projects/contentservices/) - Used for the CDC, FDA, NIAID, and HHS.gov content APIs.  
+* [HHS Digital Media API Platform](http://sourceforge.net/projects/contentservices/) - Used for the CDC, FDA, NIAID, and HHS.gov content APIs.   
+ * [On GitHub](https://github.com/HHSDigitalMediaAPIPlatform/)  
 
 ### Tools for Content API generation - Services
 * [Apify - maybe](http://apify.heroku.com/resources)
