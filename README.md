@@ -37,6 +37,7 @@ Standards, Tools, and Guidance for offering web content as a web service
 * [Sustainable Facilities Tool](https://sftool.gov/developers)
 * [BusinessUSA](http://business.usa.gov/apis)
 * [Veterans Affairs - Press Releases](http://www.va.gov/webservices/press/documentation/releases.cfm)
+* [Dept. of Justice- News and Law Jobs API](http://www.justice.gov/developer/api-documentation/api_v1)
 
 *Possibly Deprecated*
 * Vetsuccess.gov
