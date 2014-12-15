@@ -26,6 +26,7 @@ Standards, Tools, and Guidance for offering web content as a web service
 * [Economic Research Service, USDA](http://www.ers.usda.gov/developer/website-content-api.aspx)
 * [Centers for Disease Control, HHS](https://tools.cdc.gov/syndication/api.aspx)
 * [Food and Drug Administration, HHS - Tobacco Content](http://tools.fda.gov/CSStorefront/api.aspx)
+* [International Trade Administration News and ARticles](http://developer.trade.gov/trade-news-articles.html)
 * [National Institute of Allergy and Infectious Diseases, HHS](http://tools.niaid.nih.gov/register/api.aspx)
 * [Substance Abuse and Mental Health Services Administration, HHS](http://store.samhsa.gov/developer)
 * [Healthcare.gov, HHS](https://www.healthcare.gov/developers/)
